@@ -1,0 +1,175 @@
+[2024-12-24 09:13:59] ACTION: DataStorage initialized.
+[2024-12-24 09:13:59] ACTION: Added/Updated key: key1, value: value1
+[2024-12-24 09:13:59] ACTION: Retrieved key: key1, value: value1
+[2024-12-24 09:13:59] ACTION: Deleted key: key1
+[2024-12-24 09:13:59] ACTION: Listed all data.
+[2024-12-24 09:13:59] ACTION: Computed top 2 frequent words: [('hello', 3), ('test', 3)]
+[2024-12-24 09:13:59] ACTION: Polygons intersect.
+[2024-12-24 09:14:05] ACTION: DataStorage initialized.
+[2024-12-24 09:14:05] ACTION: Added/Updated key: key1, value: value1
+[2024-12-24 09:14:05] ACTION: Retrieved key: key1, value: value1
+[2024-12-24 09:14:05] ACTION: Deleted key: key1
+[2024-12-24 09:14:05] ACTION: Listed all data.
+[2024-12-24 09:14:05] ACTION: Computed top 2 frequent words: [('hello', 3), ('test', 3)]
+[2024-12-24 09:14:05] ACTION: Polygons intersect.
+[2024-12-24 09:17:05] INFO: DataStorage initialized
+[2024-12-24 09:17:05] INFO: Added/Updated key: key1
+[2024-12-24 09:17:05] INFO: Added/Updated key: key2
+[2024-12-24 09:17:05] INFO: Listed all data
+[2024-12-24 09:17:05] INFO: Retrieved key: key1
+[2024-12-24 09:17:05] INFO: Deleted key: key1
+[2024-12-24 17:05:15] INFO: DataStorage initialized
+[2024-12-24 17:05:15] INFO: Added/Updated key: key1
+[2024-12-24 17:05:15] INFO: Added/Updated key: key2
+[2024-12-24 17:05:15] INFO: Listed all data
+[2024-12-24 17:05:15] INFO: Retrieved key: key1
+[2024-12-24 17:05:15] INFO: Deleted key: key1
+[2024-12-24 17:27:21] INFO: DataStorage initialized
+[2024-12-24 17:27:21] INFO: Added/Updated key: key1
+[2024-12-24 17:27:21] INFO: Added/Updated key: key2
+[2024-12-24 17:27:21] INFO: Listed all data
+[2024-12-24 17:27:21] INFO: Retrieved key: key1
+[2024-12-24 17:27:21] INFO: Deleted key: key1
+[2024-12-24 17:27:21] INFO: Created target directory: target_dir
+[2024-12-24 17:27:21] ERROR: Error copying directory: [WinError 3] The system cannot find the path specified: 'source_dir'
+[2024-12-24 17:28:11] INFO: DataStorage initialized
+[2024-12-24 17:28:11] INFO: Added/Updated key: key1
+[2024-12-24 17:28:11] INFO: Added/Updated key: key2
+[2024-12-24 17:28:11] INFO: Listed all data
+[2024-12-24 17:28:11] INFO: Retrieved key: key1
+[2024-12-24 17:28:11] INFO: Deleted key: key1
+[2024-12-24 17:28:11] ERROR: Error copying directory: [WinError 3] The system cannot find the path specified: 'source_dir'
+[2024-12-24 17:28:24] INFO: DataStorage initialized
+[2024-12-24 17:28:24] INFO: Added/Updated key: key1
+[2024-12-24 17:28:24] INFO: Added/Updated key: key2
+[2024-12-24 17:28:24] INFO: Listed all data
+[2024-12-24 17:28:24] INFO: Retrieved key: key1
+[2024-12-24 17:28:24] INFO: Deleted key: key1
+[2024-12-24 17:28:32] INFO: DataStorage initialized
+[2024-12-24 17:28:32] INFO: Added/Updated key: key1
+[2024-12-24 17:28:32] INFO: Added/Updated key: key2
+[2024-12-24 17:28:32] INFO: Listed all data
+[2024-12-24 17:28:32] INFO: Retrieved key: key1
+[2024-12-24 17:28:32] INFO: Deleted key: key1
+[2024-12-24 17:28:32] ERROR: Error copying directory: [WinError 3] The system cannot find the path specified: 'source_dir'
+[2024-12-24 17:31:31] INFO: DataStorage initialized
+[2024-12-24 17:31:31] INFO: Added/Updated key: key1
+[2024-12-24 17:31:31] INFO: Added/Updated key: key2
+[2024-12-24 17:31:31] INFO: Listed all data
+[2024-12-24 17:31:31] INFO: Retrieved key: key1
+[2024-12-24 17:31:31] INFO: Deleted key: key1
+[2024-12-24 17:31:31] ERROR: Source directory does not exist: C:\Users\saman\PycharmProjects\pythonProject6\source_dir
+[2024-12-24 17:32:12] INFO: DataStorage initialized
+[2024-12-24 17:32:12] INFO: Added/Updated key: key1
+[2024-12-24 17:32:12] INFO: Added/Updated key: key2
+[2024-12-24 17:32:12] INFO: Listed all data
+[2024-12-24 17:32:12] INFO: Retrieved key: key1
+[2024-12-24 17:32:12] INFO: Deleted key: key1
+[2024-12-24 17:35:24] INFO: DataStorage initialized
+[2024-12-24 17:35:24] INFO: Added/Updated key: key1
+[2024-12-24 17:35:24] INFO: Added/Updated key: key2
+[2024-12-24 17:35:24] INFO: Listed all data
+[2024-12-24 17:35:24] INFO: Retrieved key: key1
+[2024-12-24 17:35:24] INFO: Deleted key: key1
+[2024-12-24 17:35:24] INFO: Copied file: data.csv
+[2024-12-24 17:35:24] INFO: Copied file: example.txt
+[2024-12-24 17:35:24] INFO: Copied file: image.png
+[2024-12-24 17:35:24] INFO: Copied file: logfile.log
+[2024-12-24 17:35:24] INFO: Processed file: example.txt
+[2024-12-24 17:35:24] INFO: Processed file: logfile.log
+[2024-12-24 17:41:34] INFO: DataStorage initialized
+[2024-12-24 17:41:34] INFO: Added/Updated key: key1
+[2024-12-24 17:41:34] INFO: Added/Updated key: key2
+[2024-12-24 17:41:34] INFO: Listed all data
+[2024-12-24 17:41:34] INFO: Retrieved key: key1
+[2024-12-24 17:41:34] INFO: Deleted key: key1
+[2024-12-24 17:41:34] INFO: Copied file: data.csv
+[2024-12-24 17:41:34] INFO: Copied file: example.txt
+[2024-12-24 17:41:34] INFO: Copied file: image.png
+[2024-12-24 17:41:34] INFO: Copied file: logfile.log
+[2024-12-24 17:41:34] INFO: Processed file: example.txt
+[2024-12-24 17:41:34] INFO: Processed file: logfile.log
+[2024-12-24 17:52:58] INFO: DataStorage initialized
+[2024-12-24 17:52:58] INFO: Added/Updated key: key1
+[2024-12-24 17:52:58] INFO: Added/Updated key: key2
+[2024-12-24 17:52:58] INFO: Listed all data
+[2024-12-24 17:52:58] INFO: Retrieved key: key1
+[2024-12-24 17:52:58] INFO: Deleted key: key1
+[2024-12-24 17:52:58] INFO: Created/verified target directory: ./target_dir
+[2024-12-24 17:52:58] INFO: Copied file: data.csv
+[2024-12-24 17:52:58] INFO: Copied file: example.txt
+[2024-12-24 17:52:58] INFO: Copied file: image.png
+[2024-12-24 17:52:58] INFO: Copied file: logfile.log
+[2024-12-24 17:52:58] INFO: Processed file: example.txt
+[2024-12-24 17:52:58] INFO: Processed file: logfile.log
+[2024-12-24 17:53:12] INFO: DataStorage initialized
+[2024-12-24 17:53:12] INFO: Added/Updated key: key1
+[2024-12-24 17:53:12] INFO: Added/Updated key: key2
+[2024-12-24 17:53:12] INFO: Listed all data
+[2024-12-24 17:53:12] INFO: Retrieved key: key1
+[2024-12-24 17:53:12] INFO: Deleted key: key1
+[2024-12-24 17:53:12] INFO: Created/verified target directory: ./target_dir
+[2024-12-24 17:53:12] INFO: Copied file: data.csv
+[2024-12-24 17:53:12] INFO: Copied file: example.txt
+[2024-12-24 17:53:12] INFO: Copied file: image.png
+[2024-12-24 17:53:12] INFO: Copied file: logfile.log
+[2024-12-24 17:53:12] INFO: Processed file: example.txt
+[2024-12-24 17:53:12] INFO: Processed file: logfile.log
+[2024-12-24 17:53:12] INFO: DataStorage initialized
+[2024-12-24 17:53:12] INFO: Added/Updated key: key1
+[2024-12-24 17:53:12] INFO: Added/Updated key: key2
+[2024-12-24 17:53:12] INFO: Listed all data
+[2024-12-24 17:53:12] INFO: Retrieved key: key1
+[2024-12-24 17:53:12] INFO: Deleted key: key1
+[2024-12-24 17:53:12] INFO: Created/verified target directory: ./target_dir
+[2024-12-24 17:53:12] INFO: Copied file: data.csv
+[2024-12-24 17:53:12] INFO: Copied file: example.txt
+[2024-12-24 17:53:12] INFO: Copied file: image.png
+[2024-12-24 17:53:12] INFO: Copied file: logfile.log
+[2024-12-24 17:53:12] INFO: Processed file: example.txt
+[2024-12-24 17:53:12] INFO: Processed file: logfile.log
+[2024-12-24 17:53:13] INFO: DataStorage initialized
+[2024-12-24 17:53:13] INFO: Added/Updated key: key1
+[2024-12-24 17:53:13] INFO: Added/Updated key: key2
+[2024-12-24 17:53:13] INFO: Listed all data
+[2024-12-24 17:53:13] INFO: Retrieved key: key1
+[2024-12-24 17:53:13] INFO: Deleted key: key1
+[2024-12-24 17:53:13] INFO: Created/verified target directory: ./target_dir
+[2024-12-24 17:53:13] INFO: Copied file: data.csv
+[2024-12-24 17:53:13] INFO: Copied file: example.txt
+[2024-12-24 17:53:13] INFO: Copied file: image.png
+[2024-12-24 17:53:13] INFO: Copied file: logfile.log
+[2024-12-24 17:53:13] INFO: Processed file: example.txt
+[2024-12-24 17:53:13] INFO: Processed file: logfile.log
+[2024-12-24 17:53:20] INFO: DataStorage initialized
+[2024-12-24 17:53:20] INFO: Added/Updated key: key1
+[2024-12-24 17:53:20] INFO: Added/Updated key: key2
+[2024-12-24 17:53:20] INFO: Listed all data
+[2024-12-24 17:53:20] INFO: Retrieved key: key1
+[2024-12-24 17:53:20] INFO: Deleted key: key1
+[2024-12-24 17:53:26] INFO: DataStorage initialized
+[2024-12-24 17:53:26] INFO: Added/Updated key: key1
+[2024-12-24 17:53:26] INFO: Added/Updated key: key2
+[2024-12-24 17:53:26] INFO: Listed all data
+[2024-12-24 17:53:26] INFO: Retrieved key: key1
+[2024-12-24 17:53:26] INFO: Deleted key: key1
+[2024-12-24 17:53:26] INFO: Created/verified target directory: ./target_dir
+[2024-12-24 17:53:26] INFO: Copied file: data.csv
+[2024-12-24 17:53:26] INFO: Copied file: example.txt
+[2024-12-24 17:53:26] INFO: Copied file: image.png
+[2024-12-24 17:53:26] INFO: Copied file: logfile.log
+[2024-12-24 17:53:26] INFO: Processed file: example.txt
+[2024-12-24 17:53:26] INFO: Processed file: logfile.log
+[2024-12-25 11:47:29] INFO: DataStorage initialized
+[2024-12-25 11:47:29] INFO: Added/Updated key: key1
+[2024-12-25 11:47:29] INFO: Added/Updated key: key2
+[2024-12-25 11:47:29] INFO: Listed all data
+[2024-12-25 11:47:29] INFO: Retrieved key: key1
+[2024-12-25 11:47:29] INFO: Deleted key: key1
+[2024-12-25 11:47:29] INFO: Created/verified target directory: ./target_dir
+[2024-12-25 11:47:29] INFO: Copied file: data.csv
+[2024-12-25 11:47:29] INFO: Copied file: example.txt
+[2024-12-25 11:47:29] INFO: Copied file: image.png
+[2024-12-25 11:47:29] INFO: Copied file: logfile.log
+[2024-12-25 11:47:29] INFO: Processed file: example.txt
+[2024-12-25 11:47:29] INFO: Processed file: logfile.log
